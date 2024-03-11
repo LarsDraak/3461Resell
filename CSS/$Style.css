@@ -24,10 +24,10 @@ footer{
     cursor: pointer;
 }
 .button:hover{
-    background-color: #424242
+    opacity: 0.8;
 }
 .button:active{
-    background-color: #9c9c9c;
+    opacity: 0.5;
 }
 h1{
     font-family: "press start 2P", "consolas", sans-serif;
