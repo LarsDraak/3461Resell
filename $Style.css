@@ -7,3 +7,12 @@ p{
 footer{
     background-color: black;
 }
+button{
+    background-color: #1e6ce8;
+}
+button{
+    color: white;
+}
+#img1{
+    width: 30px; height: 30px;
+}
