@@ -22,3 +22,20 @@ button{
 h1{
     font-family: "press start 2P", "consolas", sans-serif;
 }
+#insta{ 
+    width: 30px; height: 30px;
+    display: inline-block;
+}
+
+#tiktak{
+    display: inline-block;
+}
+#tree{
+    display: inline-block;
+}
+#mail{
+    display: inline-block;
+}
+#facekoek{
+    display: inline-block;
+}
