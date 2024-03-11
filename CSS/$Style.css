@@ -23,7 +23,6 @@ h1{
     font-family: "press start 2P", "consolas", sans-serif;
 }
 #insta{ 
-    width: 30px; height: 30px;
     display: inline-block;
 }
 
@@ -38,6 +37,7 @@ h1{
 }
 #facekoek{
     display: inline-block;
+}
 #button1{
     border-radius: 60px;
     height: 60px;
