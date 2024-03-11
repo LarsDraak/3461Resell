@@ -22,13 +22,16 @@ footer{
     width: 60px;
     font-size: x-small;
     cursor: pointer;
+    transition: background-color 1s;
+    transition: color 1s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
 }
 .button:hover{
     background-color: wheat;
     color: black;
 }
 .button:active{
-    opacity: 0.5;
+    opacity: 0.7;
 }
 h1{
     font-family: "press start 2P", "consolas", sans-serif;
