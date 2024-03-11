@@ -24,11 +24,13 @@ footer{
     cursor: pointer;
     transition: background-color 1s;
     transition: color 1s;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+    border-radius: 3px;
+    transition: box-shadow 0.15s;
 }
 .button:hover{
     background-color: wheat;
     color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.30);
 }
 .button:active{
     opacity: 0.7;
