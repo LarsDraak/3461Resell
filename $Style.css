@@ -7,12 +7,15 @@ p{
 footer{
     background-color: black;
 }
-button{
-    background-color: #1e6ce8;
-}
-button{
-    color: white;
-}
 #img1{
     width: 30px; height: 30px;
+}
+button{
+    background-color: white;
+    color: black;
+    border: none;
+    height: 20px;
+    width: 50px;
+    font-size: x-small;
+    cursor: pointer;
 }
