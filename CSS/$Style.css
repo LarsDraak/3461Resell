@@ -27,8 +27,7 @@ footer{
     background-color: #424242
 }
 .button:active{
-    background-color: white;
-    color: black;
+    background-color: #9c9c9c;
 }
 h1{
     font-family: "press start 2P", "consolas", sans-serif;
