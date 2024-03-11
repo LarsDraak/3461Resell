@@ -14,6 +14,21 @@ footer{
 #img1{
     width: 30px; height: 30px;
 }
+.help-button{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 20px;
+    width: 60px;
+    font-size: x-small;
+    cursor: pointer;
+}
+.help-button:hover{
+    background-color: green;
+}
+.help-button:active{
+    background-color: blue;
+}
 button{
     background-color: white;
     color: black;
