@@ -12,18 +12,22 @@ p{
 }
 .button{
     background-color: black;
-    color: white;
+    color: wheat;
     border: none;
     height: 20px;
     width: 60px;
     font-size: x-small;
     cursor: pointer;
+    transition: background-color 0.50s, color 0.50;
+    border-radius: 3px;
 }
 .button:hover{
-    background-color: #424242
+    background-color: wheat;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
 }
 .button:active{
-    background-color: #9c9c9c;
+    opacity: 0.7;
 }
 h1{
     font-family: "press start 2P", "consolas", sans-serif;
