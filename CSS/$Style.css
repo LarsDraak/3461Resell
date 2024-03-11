@@ -24,17 +24,22 @@ h1{
 }
 #insta{ 
     display: inline-block;
+    margin-right: 5px;
 }
 
 #tiktak{
     display: inline-block;
+    margin-right: 5px;
 }
 #tree{
     display: inline-block;
+    margin-right: 5px;
 }
 #mail{
     display: inline-block;
+    margin-right: 5px;
 }
 #facekoek{
     display: inline-block;
+    margin-right: 5px;
 }
