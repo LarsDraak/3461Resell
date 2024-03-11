@@ -16,7 +16,7 @@ footer{
 }
 .button{
     background-color: black;
-    color: white;
+    color: wheat;
     border: none;
     height: 20px;
     width: 60px;
@@ -24,7 +24,8 @@ footer{
     cursor: pointer;
 }
 .button:hover{
-    opacity: 0.8;
+    background-color: wheat;
+    color: black;
 }
 .button:active{
     opacity: 0.5;
