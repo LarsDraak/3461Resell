@@ -174,3 +174,9 @@ span{
     animation-play-state: paused;
     cursor: pointer;
 }
+.beweeg-text{
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  }
+  
