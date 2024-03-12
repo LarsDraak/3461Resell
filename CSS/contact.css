@@ -2,3 +2,21 @@ body{
     background-color: #b9baa0;
     background-image: url(http://www.transparenttextures.com/patterns/textured-paper.png);
 }
+.close-btn{
+    position: fixed;
+    top: 10px;
+    left: 10px; 
+    width: 30px;
+    height: 30px;
+    font-size: 34px;
+    line-height: 1;
+    color: #000000;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+.close-btn:hover{
+    background-color: red;
+    color: #fff;
+}
