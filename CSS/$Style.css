@@ -1,7 +1,7 @@
 body{
     text-align: center;
     background-color: #b6b857;
-background-image: url("https://www.transparenttextures.com/patterns/textured-paper.png");
+    background-image: url("https://www.transparenttextures.com/patterns/textured-paper.png");
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -126,5 +126,46 @@ ul li a:hover{
 @media(max-width: 555px){
     .footer-col{
         width: 100%;
+    }
+}
+
+.scroll {
+    position: relative;
+    width: 100vw;
+    height: 15%;
+    min-height: 150px;
+    overflow: hidden;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .t-scroll{
+    overflow: hidden;
+    height: 100%;
+    white-space: nowrap;
+    animation: scrollText 20s infinite linear;
+    margin: 0;
+    font-size: 0;
+    display: inline-block;
+  }
+  
+span{
+    font-size: 30px;
+    display: inline-block;
+    min-width: 50vw;
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #f65353;
+    font-family: "press start 2P", "consolas", sans-serif;
+}
+  
+@keyframes scrollText{
+    from {
+      transform: translateX(0%);
+    }
+    to {
+      transform: translateX(-50%);
     }
 }
