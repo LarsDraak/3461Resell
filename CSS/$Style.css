@@ -152,7 +152,7 @@ ul li a:hover{
   }
   
 span{
-    font-size: 30px;
+    font-size: 60px;
     display: inline-block;
     min-width: 50vw;
     margin: 0;
@@ -174,3 +174,9 @@ span{
     animation-play-state: paused;
     cursor: pointer;
 }
+.beweeg-text{
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  }
+  
