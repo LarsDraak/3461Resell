@@ -156,7 +156,8 @@ span{
     display: inline-block;
     min-width: 50vw;
     margin: 0;
-    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
     color: white;
     background-color: #f65353;
     font-family: "press start 2P", "consolas", sans-serif;
