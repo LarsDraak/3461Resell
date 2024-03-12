@@ -15,6 +15,7 @@ div{
     background-size: cover;
     width: 1000px;
     height: 650px;
+    margin-left: 120px;
 }
 p{
     font-family: "whisper";
