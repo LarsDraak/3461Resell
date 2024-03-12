@@ -1,4 +1,8 @@
 body{
     text-align: center; 
-    background-image: url(achtergrondabout.jpg);
+    background-image: url(/FOTOS/AchtergrondAbout.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
 }
