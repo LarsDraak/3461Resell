@@ -16,3 +16,18 @@ div{
     width: 1000px;
     height: 500px;
 }
+h2{
+    font-family:"";
+}
+p{
+    font-family: "whisper";
+    font-size: 20px;
+    font-weight: 700;
+}
+h4{
+    font-family: "pacifico";
+}
+h2{
+    font-family: "Protest Revolution";
+    color: red;
+}
