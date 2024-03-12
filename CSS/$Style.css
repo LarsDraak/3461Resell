@@ -145,7 +145,7 @@ ul li a:hover{
     overflow: hidden;
     height: 100%;
     white-space: nowrap;
-    animation: scrollText 20s infinite linear;
+    animation: scrollText 40s infinite linear;
     margin: 0;
     font-size: 0;
     display: inline-block;
@@ -172,4 +172,5 @@ span{
 }
 .t-scroll:hover{
     animation-play-state: paused;
+    cursor: pointer;
 }
