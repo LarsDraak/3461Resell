@@ -47,6 +47,7 @@ body{
 }
 .input-box input::placeholder{
     color: #fff;
+    font-weight: 600;
 }
 .input-box i{
     position: absolute;
